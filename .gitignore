@@ -1,0 +1,4 @@
+# exclude bin floders
+**/bin/
+# exclude java binary objects
+**.class
